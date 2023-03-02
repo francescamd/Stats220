@@ -6,7 +6,10 @@
 ⭐ Some fun facts about me: 
 - I am a second year Microbiology and Stats student
 - I am a **certified** dog person
-- I grew up in Krakow, Poland
+- I grew up in Krakow, Poland 
+     - Isn't it such a picturesque city
+      
+![Krakow](https://github.com/[francescamd]/[stats22]/blob//Krakow.jpg?raw=true)
 
 Reasons why I'm excited about Stats220:
 1. I want to learn how to use R
