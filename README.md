@@ -9,13 +9,10 @@
 - I grew up in Krakow, Poland 
      - Isn't it such a picturesque city
       
-![Krakow](https://github.com/[francescamd]/[stats22]/blob//Krakow.jpg?raw=true)
+<img src="https://github.com/francescamd/stats220/blob/main/Krakow.jpg" width="300" height="250">
 
 Reasons why I'm excited about Stats220:
 1. I want to learn how to use R
 2. It's a good way for me to rehash my coding skills from College
 
-
-
-
-
+Just a reminder that there is a war still going on in Ukraine. Click **[here](https://unrefugees.org.nz/)** for more information on how to help.
