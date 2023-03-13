@@ -8,14 +8,11 @@
 *Welcome to Francesca's STATS220 repo. Here you can see her work!*
 
 <!--- Use of unordered list --->
-⭐ Some fun facts about me: 
-* I am a second year Microbiology and Stats student
-* I am a **certified** dog person
-* I grew up in Krakow, Poland 
-     * Isn't it such a picturesque city
-     
-<!--- Krakow image --->   
-<img src="https://github.com/francescamd/stats220/blob/main/Krakow.jpg" width="300" height="250">
+⭐ The purpose behind this repo: 
+* To upload images I may be using for future projects
+* To create website pages
+* To store and show my work as a portfolio 
+    * This will be useful for my Stats220 markers
 
 <!--- Use of ordered list --->
 Reasons why I'm excited about Stats220:
