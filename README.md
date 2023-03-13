@@ -15,7 +15,7 @@
     * This will be useful for my Stats220 markers
   
  <!--- Adding image --->
- ![Image of RStudio icon]("https://www.clipartmax.com/png/middle/301-3016075_rstudio-icon-r-studio-logo-png.png")
+ ![Image of RStudio icon]("")
  
 <!--- Use of ordered list --->
 Reasons why I'm excited about Stats220:
