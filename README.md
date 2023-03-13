@@ -23,4 +23,4 @@ Reasons why I'm excited about Stats220:
 2. It's a good way for me to rehash my coding skills from College
 
 <!--- Use of weblink --->
-Just a reminder that there is a war still going on in Ukraine. Click **[here](https://unrefugees.org.nz/)** for more information on how to help.
+Click **[here](https://francescamd.github.io/stats220/)** to get to my website for Project 1!
